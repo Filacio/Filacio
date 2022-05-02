@@ -3,7 +3,7 @@
 
 ### seja bem vindo 
 
-#### estou fazendo o meu primeiro gi e atualização de versão 
+#### estou fazendo o meu primeiro git github e atualização de versão do meu codigo
 
 - **obrigado por chegar até aqui**
 - **Volte sempre! Você será bem vindo!**
